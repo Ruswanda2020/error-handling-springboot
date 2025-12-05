@@ -70,7 +70,7 @@ error-handling-springboot/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ruswanda2020/error-handling-springboot.git
 cd error-handling-springboot
 ```
 
